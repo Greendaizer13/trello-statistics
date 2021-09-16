@@ -192,4 +192,20 @@ body
 {
   stroke:#F38181;
   stroke-dashoffset:calc(440 - (440 * 10) / 100);
+}.box-60b640a476c35b8df293e7b4 .percent svg circle:nth-child(2)
+{
+  stroke:#F38181;
+  stroke-dashoffset:calc(440 - (440 * 0) / 100);
+}.box-60b60fd313dc4404b553e660 .percent svg circle:nth-child(2)
+{
+  stroke:#EAFFD0;
+  stroke-dashoffset:calc(440 - (440 * 83) / 100);
+}.box-6102607fd598a72ff124b0bc .percent svg circle:nth-child(2)
+{
+  stroke:#95E1D3;
+  stroke-dashoffset:calc(440 - (440 * 100) / 100);
+}.box-60b60fe9a458ce5ebd21da45 .percent svg circle:nth-child(2)
+{
+  stroke:#F38181;
+  stroke-dashoffset:calc(440 - (440 * 10) / 100);
 }
