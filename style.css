@@ -1368,4 +1368,12 @@ body
 {
   stroke:#F38181;
   stroke-dashoffset:calc(440 - (440 * 0) / 100);
+}.box-615aa81a84ab51685b233856 .percent svg circle:nth-child(2)
+{
+  stroke:#95E1D3;
+  stroke-dashoffset:calc(440 - (440 * 100) / 100);
+}.box-60b60fd313dc4404b553e660 .percent svg circle:nth-child(2)
+{
+  stroke:#95E1D3;
+  stroke-dashoffset:calc(440 - (440 * 100) / 100);
 }
